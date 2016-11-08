@@ -5,11 +5,12 @@ cache:
     - node_modules
 notifications:
   email: false
+branches:
+  only:
+    - master
 node_js:
   - "6"
-  - "5"
   - "4"
-  - "0.12"
 install:
   - npm install
 before_script:
