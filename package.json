@@ -1,6 +1,6 @@
 {
   "name": "not-empty-object",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Shortcut. Check if a thing is a \"not-empty-object\". Also the opposite, if it's \"not-object-or-is-empty\".",
   "author": {
     "name": "Wiredcraft",
